@@ -11,7 +11,7 @@
 	<groupId>cn.pri.smilly</groupId>
 	<artifactId>spring_aop</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring_boot_aop</name>
+	<name>java-proxy-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
